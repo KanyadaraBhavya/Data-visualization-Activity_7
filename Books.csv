@@ -1,0 +1,17 @@
+index,Publishing Year,Book Name,Author,language_code,Author_Rating,Book_average_rating,Book_ratings_count,genre,gross sales,publisher revenue,sale price,sales rank,Publisher ,units sold
+0,1975,Beowulf,"Unknown, Seamus Heaney",en-US,Novice,3.42,155903,genre fiction,34160,20496,4.88,1,HarperCollins Publishers,7000
+1,1987,Batman: Year One,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",eng,Intermediate,4.23,145267,genre fiction,12437.5,7462.5,1.99,2,HarperCollins Publishers,6250
+2,2015,Go Set a Watchman,Harper Lee,eng,Novice,3.31,138669,genre fiction,47795,28677,8.69,3,"Amazon Digital Services,  Inc.",5500
+3,2008,When You Are Engulfed in Flames,David Sedaris,en-US,Intermediate,4.04,150898,fiction,41250,24750,7.5,3,Hachette Book Group,5500
+4,2011,Daughter of Smoke & Bone,Laini Taylor,eng,Intermediate,4.04,198283,genre fiction,37952.5,22771.5,7.99,4,Penguin Group (USA) LLC,4750
+5,2015,Red Queen,Victoria Aveyard,eng,Intermediate,4.08,83354,genre fiction,19960,0,4.99,5,"Amazon Digital Services,  Inc.",4000
+6,2011,The Power of Habit,Charles Duhigg,eng,Intermediate,4.03,155977,genre fiction,27491.67,16495.002,6.99,6,HarperCollins Publishers,3933
+7,1994,Midnight in the Garden of Good and Evil,John Berendt,eng,Intermediate,3.9,167997,nonfiction,26182,15709.2,6.89,8,Hachette Book Group,3800
+8,2012,Hopeless,Colleen Hoover,eng,Intermediate,4.34,189938,genre fiction,26093.67,15656.202,6.99,9,HarperCollins Publishers,3733
+9,1905,A Little Princess,"Frances Hodgson Burnett, Nancy Bond",eng,Intermediate,4.2,199872,genre fiction,23792.34,14275.404,6.49,10,Random House LLC,3666
+10,2004,The Truth About Forever,Sarah Dessen,en-US,Intermediate,4.13,179415,genre fiction,17964,0,4.99,11,"Amazon Digital Services,  Inc.",3600
+11,1954,The horse and his boy,C.S. Lewis,eng,Intermediate,3.9,189671,fiction,21564,12938.4,5.99,11,Penguin Group (USA) LLC,3600
+12,2010,Last Sacrifice ,Richelle Mead,eng,Famous,4.42,206792,genre fiction,3431.34,0,0.99,13,"Amazon Digital Services,  Inc.",3466
+13,1935,Little House on the Prairie,"Laura Ingalls Wilder, Garth Williams",eng,Intermediate,4.18,195424,genre fiction,6897.34,4138.404,1.99,13,HarperCollins Publishers,3466
+14,1922,The Velveteen Rabbit,"Margery Williams Bianco, William   Nicholson",eng,Intermediate,4.29,173469,genre fiction,21797.82,13078.692,6.54,15,Random House LLC,3333
+15,1974,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,eng,Intermediate,3.76,139411,genre fiction,16297.34,0,4.99,16,"Amazon Digital Services,  Inc.",3266
